@@ -1,0 +1,12 @@
+{
+  "name": "Clicker Game",
+  "short_name": "Clicker Game",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
